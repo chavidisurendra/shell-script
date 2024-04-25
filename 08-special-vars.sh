@@ -10,13 +10,3 @@ echo "Hostname: $HOSTNAME"
 echo "Process ID of the current shell script: $$"
 sleep 60 &
 echo "Process ID of last background command: $!"
-
-echo "$@"
-echo "$#"
-echo "$0"
-echo "$pwd"
-echo "$home"
-echo "$user"
-echo "$hostname"
-echo "$$"
-echo "$!"
