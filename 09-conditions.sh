@@ -11,7 +11,7 @@ fi
 
 #-gt, -lt, -eq, -ge, -le
 
-if [ $num -eq 5]
+if [ $num -eq 5 ]
 then
     echo "given numbe $num is equal to 5"
 else
