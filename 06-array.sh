@@ -2,6 +2,8 @@
 
 MOVIES=("RRR" "DjTillu" "murari")
 
+
+bikes=("hunte" "classic")
 # size of above array is 3.
 # index are 0,1,2
 
@@ -10,3 +12,5 @@ MOVIES=("RRR" "DjTillu" "murari")
 echo "First Movie is: ${MOVIES[0]}"
 echo "First Movie is: ${MOVIES[1]}"
 echo "First Movie is: ${MOVIES[@]}"
+echo "first bike is: ${bikes[0]}"
+eho  "abz"
